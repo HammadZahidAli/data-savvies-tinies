@@ -3,7 +3,7 @@
 
 ![](https://media.giphy.com/media/jYl67ehKv4IJq/giphy.gif)
 
-This repository has some exciting projects for learning and courses that are awesome to get the field exposure. 
+This repository has some exciting projects for learning and courses that are awesome to make a healthy wealthy learning. Yup!
 
 
 
