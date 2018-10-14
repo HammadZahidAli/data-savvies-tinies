@@ -8,4 +8,4 @@ This repository has some exciting projects for learning and courses that are awe
 
 
 ### 1. Practical Machine Learning Course by mlcourse.ai
-<a href="https://mlcourse.ai"><img src="https://habrastorage.org/files/fd4/502/43d/fd450243dd604b81b9713213a247aa20.jpg"></a>
+<a href="https://mlcourse.ai" target="_blank"><img src="https://habrastorage.org/files/fd4/502/43d/fd450243dd604b81b9713213a247aa20.jpg"></a>
