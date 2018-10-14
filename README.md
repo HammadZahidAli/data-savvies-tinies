@@ -2,3 +2,5 @@
 
 
 ![](https://media.giphy.com/media/jYl67ehKv4IJq/giphy.gif)
+
+This repository has some exciting projects for learning. 
