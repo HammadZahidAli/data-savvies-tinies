@@ -13,6 +13,6 @@ This repository has some exciting projects for learning and courses that are awe
 
 
 ## Exploratory Data Analysis
-a. <b>telecom_churn data [Pandas Python Kaggle kernel:</b> Yury Kashnitskiy<b>](https://www.kaggle.com/kashnitsky/topic-1-exploratory-data-analysis-with-pandas) </b>
+a. <b>telecom_churn data [Pandas Python <a href="https://www.kaggle.com/kashnitsky/topic-1-exploratory-data-analysis-with-pandas"><img src="https://www.kaggle.com/static/images/logos/kaggle-logo-transparent-300.png" height=25 width=50></a>:</b> Yury Kashnitskiy<b>](https://www.kaggle.com/kashnitsky/topic-1-exploratory-data-analysis-with-pandas) </b>
 
-b. <b>Adults data [Pandas Python Kaggle kernel:</b> Yury Kashnitskiy<b>](https://www.kaggle.com/kashnitsky/a1-demo-pandas-and-uci-adult-dataset-solution) </b>
+b. <b>Adults data [Pandas Python <a href="https://www.kaggle.com/kashnitsky/a1-demo-pandas-and-uci-adult-dataset-solution"><img src="https://www.kaggle.com/static/images/logos/kaggle-logo-transparent-300.png" height=25 width=50></a>:</b> Yury Kashnitskiy<b>](https://www.kaggle.com/kashnitsky/a1-demo-pandas-and-uci-adult-dataset-solution) </b>
