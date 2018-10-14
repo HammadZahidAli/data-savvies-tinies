@@ -3,9 +3,9 @@
 
 ![](https://media.giphy.com/media/jYl67ehKv4IJq/giphy.gif)
 
-This repository has some exciting projects for learning. 
+This repository has some exciting projects for learning and courses that are awesome to get the field exposure. 
 
 
 
 ### 1. Practical Machine Learning Course by mlcourse.ai
-<img src="https://habrastorage.org/files/fd4/502/43d/fd450243dd604b81b9713213a247aa20.jpg">
+<img src="https://habrastorage.org/files/fd4/502/43d/fd450243dd604b81b9713213a247aa20.jpg"><a href="https://mlcourse.ai/</a></img>
