@@ -23,4 +23,7 @@ c. <b>Telecom Churn data  <a href="https://www.kaggle.com/kashnitsky/topic-2-vis
 
 d. <b>Video games sales data  <a href="https://www.kaggle.com/kashnitsky/topic-2-part-2-seaborn-and-plotly"><img src="https://www.kaggle.com/static/images/logos/kaggle-logo-transparent-300.png" height=25 width=55></a>: Yury Kashnitskiy </b>
 
+e. <b>Cardio vascular data  <a href="https://www.kaggle.com/kashnitsky/a2-demo-analyzing-cardiovascular-data-solution"><img src="https://www.kaggle.com/static/images/logos/kaggle-logo-transparent-300.png" height=25 width=55></a>: Yury Kashnitskiy </b>
+
+
 
