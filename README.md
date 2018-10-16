@@ -16,3 +16,11 @@ This repository has some exciting projects for learning and courses that are awe
 a. <b>Telecom Churn data <a href="https://www.kaggle.com/kashnitsky/topic-1-exploratory-data-analysis-with-pandas"><img src="https://www.kaggle.com/static/images/logos/kaggle-logo-transparent-300.png" height=25 width=55></a>: Yury Kashnitskiy </b>
 
 b. <b>Adults data <a href="https://www.kaggle.com/kashnitsky/a1-demo-pandas-and-uci-adult-dataset-solution"><img src="https://www.kaggle.com/static/images/logos/kaggle-logo-transparent-300.png" height=25 width=55></a>: Yury Kashnitskiy </b>
+
+
+### Data Visualizations
+c. <b>Telecom Churn data  <a href="https://www.kaggle.com/kashnitsky/topic-2-visual-data-analysis-in-python"><img src="https://www.kaggle.com/static/images/logos/kaggle-logo-transparent-300.png" height=25 width=55></a>: Yury Kashnitskiy </b>
+
+d. <b>Video games sales data  <a href="https://www.kaggle.com/kashnitsky/topic-2-part-2-seaborn-and-plotly"><img src="https://www.kaggle.com/static/images/logos/kaggle-logo-transparent-300.png" height=25 width=55></a>: Yury Kashnitskiy </b>
+
+
