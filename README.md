@@ -31,3 +31,9 @@ e. <b>Cardio vascular data  <a href="https://www.kaggle.com/kashnitsky/a2-demo-a
 
 
 
+## Machine Learning: Decision Trees
+a. <b>Decison Trees Theory and Concepts
+<a href="http://nbviewer.jupyter.org/github/Yorko/mlcourse_open/blob/master/jupyter_english/topic03_decision_trees_kNN/topic3_decision_trees_kNN.ipynb?"></a>: Yury Kashnitskiy </b>
+
+
+
